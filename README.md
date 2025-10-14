@@ -1,4 +1,4 @@
-# Hi there 😎
+# 👋 Hi there
 - Sou João N Pereira Junior, desenvolvedor Front End e apaixonado por tecnologia. 🤖💻
 - Atualmente estou apredendo e criando projeto com HTML, CSS e iniciando o aprendizado de JavaScript e React:
   <br/>
